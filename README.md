@@ -75,6 +75,40 @@ int main() {
 
 
 
+OUTPUT:
+
+Enter the number of nodes: 3
+Enter the adjacency matrix (INF for infinity):
+0 2 INF
+2 0 1
+INF 1 0
+
+Initial Graph:
+0       2       INF
+2       0       1
+INF     1       0
+
+Distance Vector Table:
+0       2       3
+2       0       1
+3       1       0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINK State Protocol
+
+                
 
 
 
